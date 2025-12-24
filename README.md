@@ -309,7 +309,6 @@ This project is open source under the [MIT License](LICENSE).
 
 - GitHub: [@GOUTHAM-2002](https://github.com/GOUTHAM-2002)
 - Email: goutham3336@gmail.com
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/goutham-n/)
 
 ---
 
